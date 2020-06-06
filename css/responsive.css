@@ -1,0 +1,237 @@
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200;
+        padding: 0;
+    }
+
+    .feat-img {
+        height: 182px;
+    }
+
+    .feat-txt {
+        padding-top: 20px;
+    }
+}
+
+@media(max-width:1199px) {
+    .foot-btm .col-sm-3:last-child img {
+        width: 100%;
+    }
+    .foot-btm h3 {
+        font-size: 19px;
+        width: 113px;
+    }
+    .foot-btm p span {
+        padding: 1px 0 0 5px;
+    }
+    .feat-img {
+        height: 215px;
+    }
+}
+
+@media(max-width:991px) {
+    .foot-btm h3 {
+        font-size: 18px;
+        width: 100%;
+        text-align: left;
+        margin-top: 4px;
+    }
+    .foot-btm h3 span {
+        font-size: 13px;
+    }
+    .foot-btm p {
+        color: #fff;
+        margin: 0;
+        padding: 19px 0;
+        font-size: 10px;
+    }
+    h2.stats_heading b {
+        padding: 0px 40px 4px;
+    }
+
+    i.icofont-send-mail {
+        margin: 0px -8px;
+    }
+
+    .cart-boxed h6 {
+        font-size: 21px;
+    }
+
+    .cart-area p {
+        margin: 7px -10px;
+        font-size: 14px;
+    }
+
+   
+}
+
+@media(max-width:767px) {
+    .router-row {
+        width: 30%;
+        flex: 30%;
+    }
+    .router-row img {
+        display: block;
+        margin: auto;
+    }
+    .stats.container {
+        overflow-x: hidden;
+    }
+    .feat-img {
+        height: 188px;
+    }
+    .feat-img {
+        height: 115px;
+        width: 65%;
+        margin: 0 auto 10px;
+    }
+
+    i.icofont-send-mail {
+        margin: 8px -12px;
+    }
+    .foot-btm p {
+        font-size: 8px;
+    }
+    .cart-boxed h6 {
+        font-size: 13px;
+        padding: 14px 0;
+    }
+
+    .cart-area p {
+        font-size: 14px;
+    }
+
+    .sum-box a {
+        width: 80%;
+        font-size: 14px;
+        color: #fff;
+        padding: 6px 4px;
+        margin: 28px auto 0px;
+    }
+
+    .foot-links {
+        padding: 20px 10px;
+    }
+
+    .top-foot-bar {
+        padding: 10px 10px;
+    }
+
+    .pr-sli-det h1 {
+        font-size: 20px;
+        width: 73%;
+        margin: 40px 0;
+    }
+
+    .pro-description .nav-tabs .nav-link {
+        font-size: 14px;
+    }
+
+    .col-sm-3 {
+        -ms-flex: 0 0 25%;
+        flex: 1 0 30%;
+    }
+
+    .radio-area .input-container {
+        width: 20%;
+    }
+
+    .reg-section input.btn.btn-block.btn-primary {
+        font-size: 15px;
+        width: 35%;
+    }
+    input[type="checkbox"].css-checkbox-rec+label.css-label-rec {
+        font-size: 15px;
+    }
+    
+
+@media(max-width:575px) {
+    .router-row {
+        width: 100%;
+        flex: 100%;
+        margin-bottom: 20px;
+    }
+    #main-slider .carousel-item h2 {
+        font-size: 28px;
+    }
+    #main-slider .carousel-item p {
+        font-size: 12px;
+        padding: 0px 5%;
+    }
+    .technical .col-sm-4 {
+        text-align: center;
+        background: #fff;
+        border-bottom: 2px dashed grey !important;
+        border-right: none;
+    }
+    .foot-btm p span {
+        padding: 1px 8px 0 8px;
+    }
+    .sum-box h5 {
+        font-size: 16px;
+    }
+    .router-row {
+        width: 50%;
+        flex: 50%;
+    }
+
+    #main-slider .carousel-item p {
+        font-size: 16px;
+        padding: 10px 7%;
+    }
+
+    .stats .nav-tabs .nav-item {
+        width: 30.333%;
+    }
+
+    .nav-tabs .nav-item {
+        margin-bottom: 72px;
+    }
+
+    .technical .col-sm-4 {
+        background: radial-gradient(#1581d200, #1581d259);
+    }
+
+    .technical {
+        padding: 0;
+    }
+
+    .foot-btm p {
+        font-size: 12px;
+    }
+
+    .foot-btm p {
+        text-align: center;
+    }
+
+    .cart-area p {
+        margin: 7px 0px;
+    }
+
+    .pro-description .nav-tabs .nav-link {
+        font-size: 16px;
+    }
+    div#home p {
+        margin: 21px 3px;
+    }
+
+    .pro-description .rows {
+        width: 127%;
+    }
+
+    .quality-certificate {
+        width: 122%;
+        margin: 0 10px;
+    }
+
+    .top-foot-bar {
+        width: 125%;
+    }
+
+    .reg-section input.btn.btn-block.btn-primary {
+        font-size: 15px;
+        width: 35%;
+    }
+}
+
+    
